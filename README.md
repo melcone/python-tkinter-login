@@ -1,8 +1,7 @@
 # Python Tkinter Login Form
 
 ## Project Description
-This project is a desktop login application
-developed using Python and Tkinter.
+This project is a desktop login application developed using Python and Tkinter.
 
 ## Features
 - Username and password input
@@ -12,12 +11,12 @@ developed using Python and Tkinter.
 - Customized GUI design
 
 ## Developer Information
-Full Name: Mehlcon D. Casimero
-Course and Year: BS Infotech (Software Engineering)
+Full Name: Mehlcon D. Casimero\
+Course and Year: BS Infotech (Software Engineering)\
 Subject: CT 5
 
 ## Login Credentials
-Username: admin
+Username: admin\
 Password: 12345
 
 ## Screenshot
