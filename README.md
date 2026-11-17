@@ -12,9 +12,9 @@ developed using Python and Tkinter.
 - Customized GUI design
 
 ## Developer Information
-Full Name: Juan Dela Cruz
+Full Name: Mehlcon D. Casimero
 Course and Year: BS Infotech (Software Engineering)
-Subject: ct5
+Subject: CT 5
 
 ## Login Credentials
 Username: admin
